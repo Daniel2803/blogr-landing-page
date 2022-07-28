@@ -1,0 +1,26 @@
+
+
+#login{
+  background-color:hsl(356, 100%, 66%);
+  color: white;
+background-image: url(images/bg-pattern-intro-desktop.svg);
+background-position: center;
+}
+#login h1{
+  font-size: 4rem;
+  margin: 150px 0 80px 0;
+}
+
+.form-move{
+  text-align: center;
+}
+.login-input{
+  padding:16px 500px 15px 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+  border: none;
+}
+.form-move input{
+  width:40%;
+}
